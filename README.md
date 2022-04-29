@@ -39,8 +39,11 @@
   <img aling="center" alt="PostgreSQL" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
  <img aling="center" alt="MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
-    ![Snake animation](https://github.com/jrvcode/jrvcode/blob/output/github-contribution-grid-snake.svg)
- 
+
  </div>
+    
+    
+    
+        ![Snake animation](https://github.com/jrvcode/jrvcode/blob/output/github-contribution-grid-snake.svg)
     
     
