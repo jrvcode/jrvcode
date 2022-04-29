@@ -43,4 +43,3 @@
  </div>
     
     
-  ![Snake animation](https://github.com/jrvcode/jrvcode/blob/output/github-contribution-grid-snake.svg)
