@@ -38,10 +38,7 @@
  <img aling="center" alt="Docker" height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img aling="center" alt="PostgreSQL" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
  <img aling="center" alt="MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
-  <br><br>
-  ![Snake animation](https://github.com/jrvcode/jrvcode/blob/output/github-contribution-grid-snake.svg)
-  
+ 
  </div>
     
     
