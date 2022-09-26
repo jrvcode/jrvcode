@@ -32,13 +32,10 @@
 </div>
 
 <div style"display: inline_block"><br>
-  <h2>Próximos Estudos</h2>
+  <h3>Próximos Estudos</h3>
   <img aling="center" alt="Angular" height="30" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
  <img aling="center" alt="Vue" height="30" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img aling="center" alt="Bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  <img aling="center" alt="Docker" height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img aling="center" alt="PostgreSQL" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
  </div>
-    
-    
-    
