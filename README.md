@@ -22,7 +22,7 @@
 </div>
   
 <div style"display: inline_block"><br>
-  <h2>Estudando no Momento</h2>
+  <h3>Estudando no Momento</h3>
     <img aling="center" alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img aling="center" alt="Node.JS" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img aling="center" alt="Typescript" height="30" src="https://img.shields.io/badge/Typescript-563D7C?style=for-the-badge&logo=typescript&logoColor=white">
