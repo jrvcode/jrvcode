@@ -32,7 +32,7 @@
 </div>
 
 <div style"display: inline_block"><br>
-  <h3>Próximos Estudos</h3>
+  <h4>Próximos Estudos</h4>
   <img aling="center" alt="Angular" height="30" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
  <img aling="center" alt="Vue" height="30" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img aling="center" alt="Bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
