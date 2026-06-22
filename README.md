@@ -1,4 +1,3 @@
-# Eliomar Vieira Junior 
 ### **Especialista em Ciência de Dados | Big Data Analytics | Full Stack Developer**
 
 <div align="left">
