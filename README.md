@@ -1,41 +1,56 @@
-  <div>
-<a href="https://github.com/jrvcode">
-<img height="180rem" width="49%" src="https://github-readme-stats.vercel.app/api?username=jrvcode&theme=merko&show_icons=true"/>
-  <img height="180rem" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrvcode&layout=compact&langs_count=7&theme=merko"/>
-  </div>
-  
-  <div align="center">
-<br>
+# Eliomar Vieira Junior 
+### **Especialista em Ciência de Dados | Big Data Analytics | Full Stack Developer**
 
-<div style"display: inline_block"><br>
- <h2>Conhecimentos</h2>
-  <img aling="center" alt="html" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img aling="center" alt="css" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img aling="center" alt="PHP" height="30" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img aling="center" alt="C#" height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img aling="center" alt="JAVA" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img aling="center" alt="js" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img aling="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img aling="center" alt="MySQL" height="30" src="https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white">
-  <img aling="center" alt="SQLServer" height="30" src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
- 
-</div>
-  
-<div style"display: inline_block"><br>
-  <h3>Estudando no Momento</h3>
-    <img aling="center" alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img aling="center" alt="Node.JS" height="30" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img aling="center" alt="Typescript" height="30" src="https://img.shields.io/badge/Typescript-563D7C?style=for-the-badge&logo=typescript&logoColor=white">
-    <img aling="center" alt="AWS" height="30" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img aling="center" alt="MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrvcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=480" alt="Top Languages" />
 </div>
 
-<div style"display: inline_block"><br>
-  <h4>Próximos Estudos</h4>
-  <img aling="center" alt="Angular" height="30" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
- <img aling="center" alt="Vue" height="30" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-  <img aling="center" alt="Bootstrap" height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img aling="center" alt="Docker" height="30" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img aling="center" alt="PostgreSQL" height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
- </div>
+---
+
+### 📑 Sobre Mim
+Com mais de **25 anos de experiência técnica em TI**, atuo na intersecção entre a análise profunda de dados e o desenvolvimento de soluções de alta performance. 
+
+Atualmente, sou responsável por modelar cenários estratégicos na **Fundação de Turismo do MS**, utilizando **Qlik Sense e Power BI** para apoiar decisões de investimento baseadas em evidências. Meu diferencial é o trânsito fluido entre a Engenharia de Dados (SQL), a Análise Científica (Big Data) e o Desenvolvimento Web (PHP/JS).
+
+- 🔭 **Foco atual:** Data Science, BI e Automações com IA.
+- ⚡ **Diferencial:** Capacidade de transformar dados complexos em ferramentas funcionais e intuitivas.
+- 🎯 **Gestão:** Especialista em OKRs, análise de ROI e indicadores de performance.
+
+---
+
+### 🛠️ Hard Skills
+
+#### 📊 Data Science & BI
+![Qlik](https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+#### 💻 Desenvolvimento Full-Stack & Automação
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![N8N](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+#### 🤖 IA & Ferramentas Modernas
+![OpenAI](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+---
+
+### 🧠 Soft Skills & Gestão
+- **Pensamento Analítico:** Tradução de dados complexos em visões estratégicas.
+- **Liderança e Mentoria:** Formação de equipes técnicas e suporte pedagógico.
+- **Comunicação Executiva:** Reporte de indicadores para diretoria e stakeholders.
+- **Metodologias:** Scrum, Kanban e Gestão por processos (OKR).
+
+---
+
+### 📫 Vamos conversar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliomar-vieira-junior/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
+
+<p align="center"><i>"Apaixonado por transformar dados complexos em vantagens competitivas."</i></p>
