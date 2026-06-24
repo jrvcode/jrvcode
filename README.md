@@ -1,4 +1,4 @@
-### **Especialista em Ciência de Dados | Big Data Analytics | Full Stack Developer**
+### **Analista de Dados & BI | Power BI • Qlik Sense | Automação com n8n & IA Generativa | Full Stack Developer**
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrvcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=480" alt="Top Languages" />
